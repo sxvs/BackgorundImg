@@ -1,0 +1,118 @@
+button1{
+    background-image: url("gratisography-funflower-800x525.jpg");
+    width: 1500px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    background-color: #000;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.container{
+    max-width: 100%;
+    width: 90%;
+}
+h2{
+    color: #fff;
+}
+.nav-img{
+    margin-left: 70px;
+}
+.nav-otasi{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-oxiri{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+h3{
+    background: rgba(241, 169, 0, 1);
+    padding: 15px;
+}
+.a-otasi{
+    background: rgba(34, 34, 34, 1);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.a{
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+    margin-left: 285px;
+}
+a{
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+}
+button{
+    background-image: url('4.png');
+    width: 1920px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h4{    
+    color: #000;
+    background: rgba(241, 169, 0, 1);
+    width: 235px;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.h44{
+    color: #fff;
+    background-color: #000;
+    width: 235px;
+    padding: 20px;
+    font-size: 40px;
+}
+.section-parent{
+    display: flex;
+    gap: 65px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.section-parent2{
+    color: #fff;
+    background: rgba(241, 169, 0, 0.33);
+    width: 966px;
+    margin: 0 auto;
+    padding: 43px;
+    font-size: 40px;
+    margin-top: 30px;
+}
+footer{
+    background-color: #000;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.footer-otasi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img-footer{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
